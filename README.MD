@@ -1,2 +1,2 @@
-# Numerical methods project
-Gaussian elimination calculator
+# Projekt na metody numeryczne
+Kalkulator eliminacji Gaussa
